@@ -3,9 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title></title>
+    <link rel="stylesheet" href="./styles/styles.css">
 </head>
+<nav class="navbar">
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</nav>
 <body>
-    <h1>lalala</h1>
+    
 </body>
+<footer>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</footer>
 </html>
